@@ -34,3 +34,23 @@ grant the access.
 attribute, like job title, location etc.
 3. Mandatory Access Control (MAC): very strict model. Access controls are assigned to every single user
 separately rather than roles.
+
+# Open Policy Agent(OPA)
+Decouples policy and decission making in a service to a separate layer. Uses Rego language to define
+policies(resource access, filter possibility etc). 
+
+OPA intercepts every request and checks if the request fulfills policy requirements. In this way,
+applications do not need to have policy and access logic. Applications can concentrate solely on
+business logic.
+
+# Web certificates
+Goals:
+1. Verify website owner.
+2. Establish secure encrypted connection between user's browser and th website.
+
+Certificates are issues by third party Certificate Authorities(CA). CA checks the website owner and issues
+the signed certificate.
+
+It is possible to make own certificate(aka self-signed certificate). Self-signed certificate enables encrypted 
+connection for users but does not verify the owner of the website. Self-signed certs are used mostly 
+in development.
