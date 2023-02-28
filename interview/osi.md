@@ -37,6 +37,12 @@ Disadvantage: security, interruptions, speed.
 
 In summary, Ethernet transmits data over cables, whereas Wi-Fi transmits data over wireless signals.
 
+# WLAN vs WiFi
+Wifi is trademark name for the technology that uses radio waves to transfer data.
+
+WLAN(wireless local network) devices in network can communicate with each other wirelessly.
+Devices connect to router, router is connected with Ethernet cable to DSL cable.
+
 # DSL(Digital Subscriber Line)
 DSL is provided by phone company and MUST to be translated to Ethernet/WiFi signal with help of 
 modem/router(that support this functionality) so that you could connect your device. 
