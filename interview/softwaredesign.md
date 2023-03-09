@@ -1,4 +1,4 @@
-# Architecture patterns
+# Software design principles/patterns
 
 1. Layered Architecture. Sepatate software in different layers(business, presentation, network etc). Each
 layer communicates with the one above or below.
