@@ -4,8 +4,7 @@ Developed for OOP and recognized as best practices for
 software development.
 
 1. Single Responsibility Principle (SRP)
-Single class should be responsible for doing one thing well and
-not many things.
+Single class should be responsible for doing one thing well and not many things.
 2. Open-Closed Principle (OCP)
 Classes should be open for extension but not modification. This means that adding new functionality
 must not modify existing code.
@@ -23,3 +22,26 @@ class implementation. Product class should implement an interface or abstract cl
 can just use methods like `getPrice` or `getQuantity` specified in the interface or in
 the abstract class. Such apps are easier to maintain. If product class implementation changes,
 it does not affect the shopping cart class.
+
+
+
+# DRY (Don't Repeat Yourself)
+This principle emphasizes the importance of not duplicating code, and instead encourages 
+creating reusable code that can be called from multiple places.
+
+# YAGNI (You Ain't Gonna Need It): 
+This principle suggests that you should avoid writing code that you don't currently need, 
+as it can lead to unnecessary complexity and wasted effort.
+
+# KISS (Keep It Simple, Stupid): 
+This principle encourages writing code that is simple and easy to understand, rather than 
+overcomplicating things unnecessarily.
+
+# Separation of Concerns: 
+This principle suggests dividing a software system into different components or modules that 
+handle different aspects of the system's functionality, making the system easier to understand and modify.
+
+# Composition over Inheritance: 
+This principle suggests that using composition (combining multiple smaller classes or components 
+to create a larger system) is often preferable to using inheritance (creating new classes by 
+inheriting from existing ones), as it can lead to a more flexible and maintainable codebase.
