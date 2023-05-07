@@ -1,27 +1,40 @@
 ### Commands
 
 # Undo last commit
+
 ```
-git reset HEAD~ 
+git reset HEAD~
 ```
 
-# Reset on develop
+# Reset HARD on develop
+
 ```
 git reset --hard origin/develop
 ```
 
 # Rebase
+
 ```
 git rebase -i master
 ```
 
-# Branch 
+# Delete from git
+
+```
+git rm --cached .idea
+```
+
+# Branch
+
 Delete command
 Locally:
+
 ```
 git branch -D feat/A
 ```
+
 Remotely:
+
 ```
 git push -d origin feat/A
 ```
@@ -29,24 +42,31 @@ git push -d origin feat/A
 ### GitFlow
 
 From master start develop branch.
+
 ```
 git checkout -b develop
 ```
+
 From develop create feature branches:
+
 ```
-git checkout -b feature/A 
+git checkout -b feature/A
 
 change smth and then:
 git add .
 git commit -m "Add new feature"
-git push origin feature/A 
+git push origin feature/A
 ```
+
 Merge branch into develop:
+
 ```
 git checkout develop
 git merge --no-ff feature/A
 ```
+
 Make release from develop:
+
 ```
 git checkout -b release/v1.0.0
 
@@ -55,7 +75,9 @@ git add .
 git commit -m "Release v1.0.0"
 git push origin release/v1.0.0
 ```
+
 Merge release into master and develop
+
 ```
 git checkout master
 git merge --no-ff release/v1.0.0
@@ -69,7 +91,9 @@ git push
 ```
 
 # Case with hotfix
+
 From master branch:
+
 ```
 git checkout -b hotfix/v1.0.1
 
@@ -80,6 +104,7 @@ git push origin hotfix/v1.0.1
 ```
 
 Merge hotfix into master and develop:
+
 ```
 git checkout master
 git merge --no-ff hotfix/v1.0.1
