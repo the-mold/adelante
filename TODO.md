@@ -1,4 +1,4 @@
-1. CORS
-2. Web Attacs
+1. CORS(DONE)
+2. Web Attacs(DONE)
 3. Vault
-4. Travis - CI for github?
+4. Travis - CI for github?(DONE)
