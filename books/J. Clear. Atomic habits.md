@@ -37,3 +37,37 @@ How to break a bad habit:
 2. Craving: Make it unattractive(eg print ugly adds on cigarette packs).
 3. Response: make it difficult(eg make cigarettes expensive).
 4. Reward: make it unsatisfying
+
+-- Law 1: Make it obvious
+# Ch5 Create new habits
+Make a new habit obvious by:
+1. Implementation intention: say out load the formula "I will [BEHAVIOUR] at [TIME] in [LOCATION]".
+2. Habit stacking: add a new habit to the existing one. The old one should trigger the new one.
+Example: 
+3. after [Current habit], I will [new habit].
+
+# Ch6 Environment matters
+To trigger good behaviours make your cues visible. Example: to drink more water,
+prepare and place water bottles around your apartment.
+
+Interesting observation: habits are easier to change in a new environment where there are no old triggers.
+
+It is hard to work from home because you cannot concentrate in the place where you have fun, do family activities etc.
+Every habit must have a home. Divide your apartment into zones: chair only for reading, laptop only for working,
+bed only for sleeping. Otherwise, you will always be distracted. For example, it is hard to work on laptop on which
+you play video games.
+
+# Ch7 Secret of self-control
+People with good self-control are not neccessirely better off than people without. People with good self-control are diceplined
+and can structure their life in the way that they do not have to resist temptations of bad habits.
+
+You can break a bad habit(smoking) but you will not forget it. Avoid cues(triggers) at all cost. Make your cues invisible.
+
+-- Law 2: Make it attractive
+# Ch8 How to make a habit irresistable
+The more attractive the opportunity is, the more habit forming it is.
+
+Dopamine(дофамін) - organic chemical that is released by the brain when we want smth(motivated to do smth).
+
+Temptation bundling - connection action you want(check the news) to do with an action you NEED to do(exercising).
+
