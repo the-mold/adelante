@@ -71,3 +71,11 @@ Dopamine(дофамін) - organic chemical that is released by the brain when w
 
 Temptation bundling - connection action you want(check the news) to do with an action you NEED to do(exercising).
 
+# Ch9
+
+We imitate behaviours of three social groups:
+1. the close(family and friends)
+2. the many(the tribe where we live)
+3. the powerful(those with status and prestige).
+
+Good way to get good habits is to join a culture with values and behaviours that you want to have.
