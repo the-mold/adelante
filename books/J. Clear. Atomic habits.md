@@ -79,3 +79,9 @@ We imitate behaviours of three social groups:
 3. the powerful(those with status and prestige).
 
 Good way to get good habits is to join a culture with values and behaviours that you want to have.
+
+# Ch10
+Make bad habits as unattractive as possible. Find and say out load reasons why playing video games is bad and how it leads you nowhere.
+
+Motivation ritual - start a little ritual before you make smth you love. Then repeat this ritual before making smth that is difficult and 
+you will find it easier to do.
