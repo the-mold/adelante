@@ -85,3 +85,22 @@ Make bad habits as unattractive as possible. Find and say out load reasons why p
 
 Motivation ritual - start a little ritual before you make smth you love. Then repeat this ritual before making smth that is difficult and 
 you will find it easier to do.
+
+# Ch11
+
+Progress could be done in two ways:
+1. Being in motion - slow, a lot of contemplating, making ideas but not implementing.
+2. Being in action - try as many things as possible.
+
+Try to make as many actions as possible. Actions deliver result from which you can learn and improve.
+
+# Ch12
+
+Make GOOD(and complex) habits as easy, as possible: make preparations in advance. For example, if you want to read tomorrow, 
+setup you working space, bring water, cleanup room already today.
+
+Make BAD habits as difficult, as possible. For example, if you play to much video games, you could do this after you finish playing:
+1. hide console in another room.
+2. Remove batteries from controllers
+3. Unplug TV
+So make it as hard as possible to do this bad habit again. These small things add up and ruin your motivation next time.
