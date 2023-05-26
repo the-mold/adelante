@@ -94,13 +94,36 @@ Progress could be done in two ways:
 
 Try to make as many actions as possible. Actions deliver result from which you can learn and improve.
 
+-- Law 3: Make it easy
 # Ch12
 
 Make GOOD(and complex) habits as easy, as possible: make preparations in advance. For example, if you want to read tomorrow, 
 setup you working space, bring water, cleanup room already today.
+Design your environments and habits to be as simple and automatic as possible.
 
 Make BAD habits as difficult, as possible. For example, if you play to much video games, you could do this after you finish playing:
 1. hide console in another room.
 2. Remove batteries from controllers
 3. Unplug TV
 So make it as hard as possible to do this bad habit again. These small things add up and ruin your motivation next time.
+
+# Ch13
+
+Two-minute rule: every new habit must start small and easy. It must be done under 2 minutes AT FIRST. Later you can increase the time
+(for example, start with 10 push-ups and gradually increase)
+
+# Ch14
+Use tech and services as much as possible to automate your tasks. You need time to focus on new challenges.
+
+Make execution of you bad habits extremely difficult(eg leave your wallet at home if you do not want ot overeat in a mall). 
+Author refers to it as behaviour locking - making hard decision in present that will influence my future behavior.
+
+-- Law 4: Make it satisfying
+# Ch 15
+Only habits that are IMMEDIATELY satisfying will last and repeat. This is a problem because usually bad habits are IMMEDIATELY
+satisfying(eg. entertainment, junk food, alcohol) and good habits are satisfying on in THE LONG RUN. That is why good habits do
+not stick to people.
+What you should do is to award yourself IMMEDIATELY after making a good habit(eg. go for a walk, eat a fruit, go for a run). 
+
+The previous 3 behaviour laws make sure that a habit is performed but only the "make it satisfying" law makes sure that the behavior will
+be repeated.
