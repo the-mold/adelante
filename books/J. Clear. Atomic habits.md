@@ -127,3 +127,11 @@ What you should do is to award yourself IMMEDIATELY after making a good habit(eg
 
 The previous 3 behaviour laws make sure that a habit is performed but only the "make it satisfying" law makes sure that the behavior will
 be repeated.
+
+# Ch 16
+"All or nothing" attitude is a common mistake. You do not do smth because you tell yourself: do it perfectly or do not do it at all.
+That is a mistake. It is important to show up every day to confirm your identity. Yes, there are some bad days when you do not perform as well
+as you thought but you must be consistent continue doing your thing.
+
+Never miss a routine event twice. If you miss smth once, make sure to do it next time. If you miss once, it is a coincidence.
+If you miss twice - this is a begning of a habit.
