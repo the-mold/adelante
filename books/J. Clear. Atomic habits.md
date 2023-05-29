@@ -135,3 +135,13 @@ as you thought but you must be consistent continue doing your thing.
 
 Never miss a routine event twice. If you miss smth once, make sure to do it next time. If you miss once, it is a coincidence.
 If you miss twice - this is a begning of a habit.
+
+# Ch17
+Problem with bad habits that they serve some need NOW but the actual punishment is coming much later(eg smoking). To quit a bad habit
+come up with an IMMEDIATE penalty if you do a bad habit. If you are immediately penalized, the habit becomes not satisfying and 
+you are less likely to repeat it.
+
+Author suggests to find an accountability body. He reasons that we always want to show us in the best light in public. Immediate
+punishment of disappointing your accountability body should keep us away from a bad habit.
+
+Author also suggests to make a habit contract: add some monetary cost for breaching bad habit or not making a good habit. 
