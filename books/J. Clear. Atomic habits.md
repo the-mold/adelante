@@ -145,3 +145,18 @@ Author suggests to find an accountability body. He reasons that we always want t
 punishment of disappointing your accountability body should keep us away from a bad habit.
 
 Author also suggests to make a habit contract: add some monetary cost for breaching bad habit or not making a good habit. 
+
+# Ch18
+Maximize your success odds by choosing the field of competition you are good at/or like.
+Play/choose a game that favours your streanth.
+
+# Ch19
+The biggest threat to success is boredom. Once you become good at smth you get bored and you want to change
+and start learning cycle again. Stick to smth that you can do best and what makes you happy. Successful people
+overcome this boredome and continue doing the same thing every day even if they are bored with it. Showing up
+each day is very important.
+You cannot be endlessly fascinated for doing the same thing over-and-over again. But you need to do the thing for
+success. You have to fall in love with boredom.
+
+Anyone can work when he is motivated. The ability to keep on working even without motivation is what sets
+professionals apart from amatures. 
