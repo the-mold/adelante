@@ -160,3 +160,11 @@ success. You have to fall in love with boredom.
 
 Anyone can work when he is motivated. The ability to keep on working even without motivation is what sets
 professionals apart from amatures. 
+
+# Ch20
+
+Good thing about habits that you can automate things. Danger is that you might notice that you are doing smth wrong.
+It is important to review and reflect what you are doing from time-to-time.
+
+Everything is impermanent. Life is constantly changing. You need to periodically check in to see if your old
+habits and beliefs are still serving you.
