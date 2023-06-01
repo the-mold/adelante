@@ -162,9 +162,16 @@ Anyone can work when he is motivated. The ability to keep on working even withou
 professionals apart from amatures. 
 
 # Ch20
-
 Good thing about habits that you can automate things. Danger is that you might notice that you are doing smth wrong.
 It is important to review and reflect what you are doing from time-to-time.
 
 Everything is impermanent. Life is constantly changing. You need to periodically check in to see if your old
 habits and beliefs are still serving you.
+
+# Conclusion
+Small habits compound and make differences. The secret of achieving results is never stop making improvements.
+
+You actions show how badly you want smth. If you say you want smth but you do nothing about it then you need to have an honest
+conversation with yourself.
+
+
