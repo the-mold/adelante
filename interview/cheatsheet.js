@@ -1,18 +1,4 @@
 //CHEAT SHEET
-Functional programming - is the process of building software by
-composing pure functions(inputs and outputs values. no side effects),
-avoiding shared state(some objects are shared in scope of the whole app or some component), \
-mutable data, and side-effects(when function is impure: in addition to returnng a value it does some other stuff like
-calling api or posting data to db).
-
-
-Object oriented programming - using objects to model real world things that we want to represent
-inside our programs, and/or provide a simple way to access functionality that would otherwise be hard or
-impossible to make use of.
-
-Imperative (Procedural) programming - functions are calling number of tasks(procedures) to processs input.
-  These functions might call a sequence of functional functions and direct the logic of the application.
-
 
 //Closure - function that has reference to a privat variable.constructor
 function Person() {
