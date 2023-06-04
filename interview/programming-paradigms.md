@@ -9,7 +9,7 @@
 5. Function compositions. When many simple functions are combined in a larger function.
 6. It is declarative.
 
-## Object oriented programming - using objects to model real world things that we want to represent
+## Object-oriented programming - using objects to model real world things that we want to represent
 inside our programs, and/or provide a simple way to access functionality that would otherwise be hard or
 impossible to make use of.  It emphasizes concepts such as classes, inheritance, polymorphism, and 
 encapsulation. OOP promotes modularity, code reuse, and modeling real-world entities as 
@@ -21,7 +21,7 @@ control flow, mutable state, and detailed manipulation of variables and data str
 
 #----------
 # Imperative vs declarative programming
-Imperative programming is about controlling the flow of a program. It focuses on details of steps, tasks and controlling program flow. It uses a lot statements
-like `loop`, `while`, `break`.
+Imperative programming is about controlling the flow of a program. It focuses on details of steps, 
+tasks and controlling program flow. It uses a lot statements, like `loop`, `while`, `break`.
 Declarative programming is all about rescribing the result. It specifies how the rsult should
 look like and does not concern with control flow. Example is JS `map` or `filter` function.
