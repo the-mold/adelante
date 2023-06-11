@@ -6,7 +6,7 @@
     - how it works 
     - basic commands
 6. cron jobs(DONE)
-
+7. website migration
 
 # Books
 (DONE) https://jamesclear.com/atomic-habits
