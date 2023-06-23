@@ -14,3 +14,18 @@ Clean code is:
 - minimizes number of entities such as classes, functions etc
 - when you read it, you read what you expected
 - code makes the language look like it was meant for the problem
+
+# Ch3 Function
+- function should do just one thing
+- code under `if` or `for` statements should be a separate function
+- funcitons must be small
+- function should deal with one single level of abstraction. The deeper levels should be covered with other functions
+- function names and argument names should describe what the function does.
+For example
+```
+openFile(name)
+```
+- ideally functions have no more than 1 argument. Never more than three. Try combining arguments into objects if needed.
+- avoid using flag(bool) arguments. This is indicator that a function DOES NOT do one thing but many.
+- avoid side effects(some other calls or initiations) in a function
+- avoid code duplications.
