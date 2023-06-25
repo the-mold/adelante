@@ -44,3 +44,7 @@ name.
 - variables that are needed everywhere i a class should be declared on top of the class.
 - Vertical proximity: functions that are related should be next to each other vertically.
 - Good idea to never have to scroll to the right. Keep your lines under 70 chars.
+
+# Ch6 Objects VS data structures
+- Objects expose behaviour and hide data. It is easy to add new data without changing behaviour. It is hard to change behaviour of existing objects
+- Data structures(eg objects with no methods, just some public variables) expose data and no behaviour. It is easy to add new behavior.
