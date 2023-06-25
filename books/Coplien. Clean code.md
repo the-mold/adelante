@@ -29,3 +29,11 @@ openFile(name)
 - avoid using flag(bool) arguments. This is indicator that a function DOES NOT do one thing but many.
 - avoid side effects(some other calls or initiations) in a function
 - avoid code duplications.
+
+# Ch4 Comments
+- do not comment bad code. Improve the code and do not write comments.
+- TODOs are fine but revisit and fix them regularly.
+- Comment code lines only when you cannot find a descriptive function or variable
+name.
+- comments are often misleading and get outdated. Avoid comments.
+- never code out some code chunks. Everything is saved in code version system. Just delete it!
