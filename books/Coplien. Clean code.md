@@ -48,3 +48,7 @@ name.
 # Ch6 Objects VS data structures
 - Objects expose behaviour and hide data. It is easy to add new data without changing behaviour. It is hard to change behaviour of existing objects
 - Data structures(eg objects with no methods, just some public variables) expose data and no behaviour. It is easy to add new behavior.
+
+# Ch7 Error handling
+- avoid functions that return `null`
+- expesially avoid passing `null` into functions. Do it only you use some third party software that requests it.
