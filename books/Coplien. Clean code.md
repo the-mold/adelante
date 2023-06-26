@@ -37,3 +37,18 @@ openFile(name)
 name.
 - comments are often misleading and get outdated. Avoid comments.
 - never code out some code chunks. Everything is saved in code version system. Just delete it!
+
+# Ch5 Formatting
+- divide with an empty line things that do not belong together(eg imports, function declarations, blocks with instance variables etc)
+- variables that are needed in one place should be declared before place where they are used.
+- variables that are needed everywhere i a class should be declared on top of the class.
+- Vertical proximity: functions that are related should be next to each other vertically.
+- Good idea to never have to scroll to the right. Keep your lines under 70 chars.
+
+# Ch6 Objects VS data structures
+- Objects expose behaviour and hide data. It is easy to add new data without changing behaviour. It is hard to change behaviour of existing objects
+- Data structures(eg objects with no methods, just some public variables) expose data and no behaviour. It is easy to add new behavior.
+
+# Ch7 Error handling
+- avoid functions that return `null`
+- expesially avoid passing `null` into functions. Do it only you use some third party software that requests it.
