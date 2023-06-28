@@ -52,3 +52,8 @@ name.
 # Ch7 Error handling
 - avoid functions that return `null`
 - expesially avoid passing `null` into functions. Do it only you use some third party software that requests it.
+
+# Ch8 Boundaries
+When using third party libraries wrap them into own class and use your class methods throughout the code.
+Having this implementation, you can easily test or replace the third party library. The  third party library might change
+and you will be better prepared for it.
