@@ -57,3 +57,9 @@ name.
 When using third party libraries wrap them into own class and use your class methods throughout the code.
 Having this implementation, you can easily test or replace the third party library. The  third party library might change
 and you will be better prepared for it.
+
+# Ch9 TDD
+Test code is part of the code base and the same rules apply. Tests must be clean and on point. You will have to update tests when
+you update system. Make this update process as easy as possible by writing readable tests.
+
+Make domain specific utility functions that are needed in every test.

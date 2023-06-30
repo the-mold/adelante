@@ -7,6 +7,7 @@
     - basic commands
 6. cron jobs(DONE)
 7. website migration
+8. Domain driven design
 
 # Books
 (DONE) https://jamesclear.com/atomic-habits
