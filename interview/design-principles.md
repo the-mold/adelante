@@ -45,3 +45,9 @@ handle different aspects of the system's functionality, making the system easier
 This principle suggests that using composition (combining multiple smaller classes or components 
 to create a larger system) is often preferable to using inheritance (creating new classes by 
 inheriting from existing ones), as it can lead to a more flexible and maintainable codebase.
+
+
+# Domain driven design(DDD)
+Developing system with deep understanding of the system domain.
+Promotes:
+- domain specific language that is shared and used by everyone
