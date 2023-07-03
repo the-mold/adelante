@@ -50,4 +50,5 @@ inheriting from existing ones), as it can lead to a more flexible and maintainab
 # Domain driven design(DDD)
 Developing system with deep understanding of the system domain.
 Promotes:
-- domain specific language that is shared and used by everyone
+- domain specific language that is shared and used by everyone.
+- bounded context: break down large systems within domain into smaller parts. Each has its own responsibilities.
