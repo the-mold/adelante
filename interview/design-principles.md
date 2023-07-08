@@ -48,7 +48,16 @@ inheriting from existing ones), as it can lead to a more flexible and maintainab
 
 
 # Domain driven design(DDD)
-Developing system with deep understanding of the system domain.
-Promotes:
+Software design approach that focuses on the core domain of software application that is a business problem 
+software is trying to solve. By following DDD developers create software that is more aligned with business problem.
+Key concepts and principles:
 - domain specific language that is shared and used by everyone.
 - bounded context: break down large systems within domain into smaller parts. Each has its own responsibilities.
+- Aggregates: Aggregates are clusters of related objects that are treated as a single unit. Aggregates define rules how 
+objects within aggregate are mutated.
+Each aggregate consists of:
+1. Aggregate Root: specific entity that serves as access point to the aggregate main(e.g. Order)
+2. Entities: Objects within aggregate that have their own IDs and lifecycles(e.g. orderItem and Address)
+3. Value Objects: immutable objects without lifecycles. The are used as properties for Entities(e.g. money, product)
+Order aggregate in example can expose such methods:
+addItem, addAddress etc.
