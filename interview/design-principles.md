@@ -50,14 +50,21 @@ inheriting from existing ones), as it can lead to a more flexible and maintainab
 # Domain driven design(DDD)
 Software design approach that focuses on the core domain of software application that is a business problem 
 software is trying to solve. By following DDD developers create software that is more aligned with business problem.
+DDD forces close collaboration of developers and domain experts(e.g. Security Analysts).
 Key concepts and principles:
-- domain specific language that is shared and used by everyone.
-- bounded context: break down large systems within domain into smaller parts. Each has its own responsibilities.
-- Aggregates: Aggregates are clusters of related objects that are treated as a single unit. Aggregates define rules how 
+1. domain specific language that is shared and used by everyone.
+2. bounded context: break down large systems within domain into smaller parts. Each has its own responsibilities.
+3. Aggregates: Aggregates are clusters of related objects that are treated as a single unit. Aggregates define rules how 
 objects within aggregate are mutated.
 Each aggregate consists of:
-1. Aggregate Root: specific entity that serves as access point to the aggregate main(e.g. Order)
-2. Entities: Objects within aggregate that have their own IDs and lifecycles(e.g. orderItem and Address)
-3. Value Objects: immutable objects without lifecycles. The are used as properties for Entities(e.g. money, product)
+  - Aggregate Root: specific entity that serves as access point to the aggregate main(e.g. Order)
+  - Entity objects: any object that has their own identity and lifecycles(e.g. Product, User)
+  - Value Objects: immutable objects without lifecycles. The are used as properties for Entities(e.g. Money, DateRange)
 Order aggregate in example can expose such methods:
 addItem, addAddress etc.
+4. domain events: significant occurrences or state transitions within the domain. In e-commerce example a significant
+event is order placement. System can publish the event(e.g. save in DB) and make it available for other parts of the
+system that are interested in event and trigger further actions.
+5. domain services: domain services represent operations or behaviors that do not naturally belong to a specific entity 
+or value object but are still relevant to the domain. These service also enforce rules and behaviours within a system.
+For example PaymentService, PricingService, AuthService.
