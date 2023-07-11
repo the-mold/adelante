@@ -6,8 +6,9 @@
     - how it works 
     - basic commands
 6. cron jobs(DONE)
-7. website migration
-8. Domain driven design
+7. website migration(DONE)
+8. Domain driven design(DONE)
+9. System backup
 
 # Books
 (DONE) https://jamesclear.com/atomic-habits
