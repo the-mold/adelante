@@ -10,7 +10,8 @@
 8. Domain driven design(DONE)
 9. System backup
 10. Robotics
-11. Basic electronics
+11. Basic electronics(toolkit?)
+12. Green settlements
 
 # Books
 (DONE) https://jamesclear.com/atomic-habits
