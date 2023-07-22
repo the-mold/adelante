@@ -1,6 +1,6 @@
 //CHEAT SHEET
 
-//Closure - function that has reference to a privat variable.constructor
+//Closure - function that has reference to a private variable.constructor
 function Person() {
   let name = "Jim";
 
@@ -12,15 +12,7 @@ function Person() {
 let user = new Person()
 user.getName()   <--- is closure function because it has reference and will return privat variable name from person;
 
-
-Reactive manifesto - approach to create systems according to which systems are:
-  1. Responsive - systems provide quick response times and problems are quick to detect and deal with.
-2. Resilient - in case of failure the system stays responsive. Errors must be properly contained and limited
-in scope and properly handled.
-3. Elastic - proper resource allocation to the system. Scalability
-4. Message Driven - aync messaging between components to ensure isolation(?)
-
-
+#----------
 
 //arr sum
 arr.reduce((a,b)=>a+b)
@@ -31,7 +23,7 @@ arr.sort((a,b)=>a<b)
 //arr max number
 Math.max.apply(Math, arr)
 
-
+#----------
 
 //check if prime
 function isPrime(n){
@@ -54,6 +46,7 @@ function isPrime(n){
 
 isPrime(13)
 
+#----------
 
 //build fibonacci array
 function fibonacci(n) {
@@ -69,7 +62,7 @@ function fibonacci(n) {
 
 fibonacci(8)
 
-
+#----------
 
 //find duplicate
 var array = [1,2,3,1,5,6,7,8,3]
@@ -152,9 +145,7 @@ function mergeTwoArrays(a, b){
   let elemA = a[i]
   let elemB = b[j]
   let res = []
-
-
-
+  
   if (a.length === 0) return b;
   if (b.length === 0) return a;
 
