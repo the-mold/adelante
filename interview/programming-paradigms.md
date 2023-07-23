@@ -25,3 +25,11 @@ Imperative programming is about controlling the flow of a program. It focuses on
 tasks and controlling program flow. It uses a lot statements, like `loop`, `while`, `break`.
 Declarative programming is all about rescribing the result. It specifies how the rsult should
 look like and does not concern with control flow. Example is JS `map` or `filter` function.
+
+#----------
+# Reactive manifesto - approach to create systems according to which systems are:
+1. Responsive - systems provide quick response times and problems are quick to detect and deal with.
+2. Resilient - in case of failure the system stays responsive. Errors must be properly contained and limited
+   in scope and properly handled.
+3. Elastic - proper resource allocation to the system. Scalability
+4. Message Driven - async messaging between components to ensure isolation(?)
