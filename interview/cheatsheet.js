@@ -145,7 +145,7 @@ function mergeTwoArrays(a, b){
   let elemA = a[i]
   let elemB = b[j]
   let res = []
-  
+
   if (a.length === 0) return b;
   if (b.length === 0) return a;
 
@@ -166,9 +166,8 @@ function mergeTwoArrays(a, b){
 mergeTwoArrays([22,33,12,1,2,4,6,9,10], [1])
 
 
-
 //swap two numbers
-function swapTwoNumbers(a,b) {
+function swapTwoNumbers(a, b) {
   console.log("before swap: " +"a:" + a + " b:" + b)
   a = b - a
   b = b - a
@@ -183,7 +182,7 @@ swapTwoNumbers(1,22)
 function reverseString(str) {
   let revStr = "";
 
-  for (i = str.length-1; i>=0;i--) {
+  for (let i = str.length-1; i>=0;i--) {
     revStr = revStr + str[i]
   }
 
@@ -191,14 +190,11 @@ function reverseString(str) {
   return revStr
 }
 
-
 reverseString("some awesome bro")
 
 
 //find the max value in array
 arr.reduce((a,b)=>Math.max(a,b))
-
-
 
 //find non repeating char in string
 function nonRepeatingCharInString(str){
@@ -213,7 +209,7 @@ function nonRepeatingCharInString(str){
   }
 
   for(let n in counted) {
-    if(counted[n]===1) {
+    if(counted[n] === 1) {
       return n
     }
   }
@@ -242,12 +238,7 @@ function findMissingNum(arr) {
 
 }
 
-
 findMissingNum([1,2,3,4,5,6,7,9,10])
-
-
-
-
 
 
 //ASYNC calls
@@ -336,10 +327,8 @@ sll.push(3);
 sll.push(4);
 
 
-
-
-//findle middle
-//the thing is that you make two pinters: one moves one object at a time and the second moves two objects at a time
+//find the linked list middle.
+//the thing is that you make two pointers: one moves one object at a time and the second moves two objects at a time
 //When the second(fast) pointer hits the tail of a list, it means that the slower pointer in hist halfway, therefore in the middle
 function getMiddleNodeValue(sll) {
   let fastPointer = sll.head;
@@ -387,8 +376,6 @@ detectSingleDistanceLoop(sll) {
   return false
 }
 
-
-
 //END: single-----------------------------------------
 
 
@@ -420,11 +407,6 @@ dll.push(1)
 dll.push(2)
 dll.push(3)
 dll.push(4)
-
-
-
-
-
 
 
 //Binary Tree.
@@ -484,7 +466,6 @@ function minValue(binaryTreeRoot) {
   return binaryTreeRoot.left;
 }
 
-
 //In-order traversal(go through all elements of a tree)
 function inOrderTransversal(treeRoot) {
   if (treeRoot) {
@@ -493,9 +474,6 @@ function inOrderTransversal(treeRoot) {
     inOrderTransversal(treeRoot.right)
   }
 }
-
-
-
 
 //Arrays and strings
 
