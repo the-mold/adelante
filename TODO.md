@@ -11,6 +11,7 @@
 9. System backup
 10. Robotics
 11. Basic electronics(toolkit?)
+https://brilliant.org/courses/electromagnetism/introduction-96/dawn-electric-age/1/
 12. Green settlements
 
 # Books
