@@ -3,8 +3,6 @@
 3. Vault
 4. Travis - CI for github?(DONE)
 5. Docker(DONE)
-    - how it works 
-    - basic commands
 6. cron jobs(DONE)
 7. website migration(DONE)
 8. Domain driven design(DONE)
