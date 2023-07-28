@@ -95,7 +95,7 @@ function removeDups(arr) {
     debugger
     if(!exists[arr[i]]) {
       res.push(arr[i])
-      exists[arr[i]]=true
+      exists[arr[i]] = true
     }
 
   }
@@ -368,7 +368,7 @@ detectSingleDistanceLoop(sll) {
     fast = fast.next.next;
     slow = slow.next;
 
-    if (slow == fast) {
+    if (slow === fast) {
       return true
     }
   }
@@ -480,18 +480,25 @@ function inOrderTransversal(treeRoot) {
 //1.1 Implement an algorithm to determine if a string has all unique characters.
 function allUniqueChars(string) {
   let res = {};
+  let char = "";
   for (let i = 0; i < string.length; i++) {
+    char = string[i];
 
-    if (res[string[i]]) return false
+    if (res[char]) {
+      return false;
+    }
 
-    if (!res[string[i]]) res[string[i]] = 1
-    else res[string[i]]++
+    if (!res[char]) {
+      res[char] = 1;
+    } else {
+      res[char]++;
+    }
   }
 
   return true;
 }
 
-allUniqueChars("bajvbbpsc")
+allUniqueChars("bajvbbpsc");
 //Time complexity is O(n), where n is the length of the string, and space complexity is O(n)
 
 //What if you can not use additional data structures?
