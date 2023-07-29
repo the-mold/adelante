@@ -509,10 +509,14 @@ function allUniqueCharsDoubleLoop(str) {
     count = 0;
 
     for (let j = 0; j < str.length; j++) {
-      if (str[i] === str[j]) count++
+      if (str[i] === str[j]) {
+        count++;
+      }
     }
 
-    if (count > 1) return false
+    if (count > 1) {
+      return false;
+    }
   }
 
   return true
