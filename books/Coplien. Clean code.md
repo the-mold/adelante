@@ -83,3 +83,12 @@ Simple design rules in order of importance:
 2. contains no duplications
 3. Expresses intent of programmer(also readable for the others)
 4. Minimizes number of classes and methods(least important rule)
+
+# Ch13 Refactoring Example
+
+Note: it is not enough to have code that works. Often this code is first attempt and badly broken. Your job is done only after
+series of refactorings to your best knowledge.
+
+# Ch17 Code styling roles list
+
+Revisit sometimes the rules in the chapter!
