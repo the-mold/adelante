@@ -23,3 +23,20 @@ Rate limiting strategies:
 
 Prevent collisions in distributed environments.
 Use lua functions(makes code execution faster) or Reddis data sets(makes collision impossible).
+
+# Ch7 Design ID Generator
+
+Requirements:
+
+- IDs must be sortable in time.
+
+Usual solutions:
+
+1. DB autoincremented ids. Easy, but it is a single point of failure and the approach does not work when you need to scale.
+2. UUIDs. Easy to implement but not sortable in time.
+3. Separate service(Ticket service) to generate IDs. It is again a single point of failure.
+4. Twitter snowflake IDs. Make 64bit binary sequence. First n(eg. 42) reserve to hold timestamp data,
+   next k bits reserve to hold worker ID and the remaining bits are sequence ID at that milisecond. Every milisecond the sequence counter(last part is reset to 0). Choose a starting epoch to which you will be adding your captured miliseconds in order to make timestamps smaller.
+   You will be able to cover so many years with unique IDs:
+   2^n - 1 = possible miliseconds in your generator.
+   [possible miliseconds] / 1000ms / 60s / 60m / 24h / 365d = number of years that your generator can generate unique IDs.
