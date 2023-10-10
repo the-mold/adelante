@@ -40,3 +40,18 @@ Usual solutions:
    You will be able to cover so many years with unique IDs:
    2^n - 1 = possible miliseconds in your generator.
    [possible miliseconds] / 1000ms / 60s / 60m / 24h / 365d = number of years that your generator can generate unique IDs.
+
+# Ch 13 Design input field autocompletion
+
+The solution is to use the Trie(pronounced "try") algorithm. This is a tree structure that stored letters of the query in each leaf with a counter how often it was called. For example, the word "beer" is stored:
+root: ""
+child level 1: "b:1"
+child level 2: "be:1"
+child level 3: "bee:1"
+child level 4: "beer:1"
+
+For every letter that a user writes, you send a query to get n most popular suggestions from the Trie tree:
+
+1. You search for the input string in the tree.
+2. You search for all children with the highest number of previous queries.
+3. You select top n of them and resolve as response.
