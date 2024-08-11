@@ -106,6 +106,24 @@ where cos(theta) is cosinus from difference in phase angles(lead or lag) of curr
 
 ## Resisotor
 
+Purpose: decrese voltage
 Resistors are used to limit the amount of current that can flow through a circuit. For example, in a simple LED circuit, a resistor is placed in series with the LED to prevent too much current from passing through and damaging the LED. Resistors are characterized by their resistance, which is measured in ohms (Ω).
 
+## Capacitor
+
+Purpose: stores charge
+
+## Inductor
+
+Purpose: stores charge
+An inductor is a passive electronic component that stores energy in the form of a magnetic field when electrical current flows through it. It typically consists of a coil of wire wound around a core, which can be made of air, iron, or other materials that enhance its magnetic properties.
+
+## Transformers
+
+Purpose: Changes voltage up or down.
+A transformer is an electrical device that transfers electrical energy between two or more circuits through electromagnetic induction. It is used to increase (step up) or decrease (step down) the voltage levels in power systems.
+
+# where to buy
+
 Global Specialties - company that does the boards.
+https://www.digikey.de/
