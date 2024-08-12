@@ -123,7 +123,45 @@ An inductor is a passive electronic component that stores energy in the form of 
 Purpose: Changes voltage up or down.
 A transformer is an electrical device that transfers electrical energy between two or more circuits through electromagnetic induction. It is used to increase (step up) or decrease (step down) the voltage levels in power systems.
 
+## Diode
+
+Purpose: semiconductor that allows flow of current in one direction only.
+Structure and Function:
+
+- P-N Junction: A diode is made from a piece of semiconductor material, typically silicon, which is doped to create two regions: a p-type (positive) and an n-type (negative) region. The interface where these two regions meet is called a P-N junction.
+- Forward Bias: When a positive voltage is applied to the p-type side (anode) and a negative voltage to the n-type side (cathode), the diode is in "forward bias," allowing current to flow through it.
+- Reverse Bias: When the polarity is reversed, the diode is in "reverse bias," and ideally, no current flows (except a tiny leakage current).
+
+### Selected diode types
+
+1. Rectifier Diodes:
+   Purpose: Convert alternating current (AC) to direct current (DC).
+   Use: In power supplies to provide DC voltage from an AC source.
+2. Zener Diodes:
+   Purpose: Allow current to flow in the reverse direction when a specific reverse voltage is reached.
+   Use: used to limit amout of voltage going to a specific component: indicators, displays, and lighting.
+3. Schottky Diodes:
+   Purpose: Have a lower forward voltage drop and faster switching speed.
+   Use: In high-speed circuits and power rectification.
+4. Light Emitting Diodes (LEDs):
+   Purpose: Emit light when forward biased.
+   Use: Indicators, displays, and lighting.
+
 # where to buy
 
 Global Specialties - company that does the boards.
 https://www.digikey.de/
+https://www.mouser.de/
+https://www.newark.com/
+https://www.futureelectronics.com/
+https://www.avnet.com/wps/portal/us/
+https://www.arrow.de/
+
+Search for components:
+https://octopart.com/de
+
+# Devices
+
+Sygnal generator - Rigol
+Oscilloscope(check waves on output) - Hantek DS series
+DC power supply - Protek
