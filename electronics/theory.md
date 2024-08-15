@@ -22,24 +22,19 @@ Books electronics
 this one is strange:
 https://lume.ufrgs.br/bitstream/handle/10183/110732/000952692.pdf?sequence=1
 
-Meet the building blocks:
-resistor
-capcitator
-Inductor
-diods
 
 Silicon can be easily doped with other elements (like phosphorus or boron) to modify its electrical properties. This is crucial for creating p-type(positive charged) and n-type semiconductors used in electronic devices.
 
 # Current and voltage
 
-Current - amount of charge q(electrons) tjat passes poimt p as a function of time. Or mathematically: current is amount or charge per unit of time.
+Current - amount of charge q(electrons) that passes point p as a function of time. Or mathematically: current is amount or charge per unit of time.
 1A(ampere) = 1c(coulumb) of charge moved through a points per second
 
 Voltage point with + is inducing current(for example +5A) to Voltage point with -.
 
 Watt = Voltage * current.
 Example hair dryier
-220V*5A = 1100Watt
+220V*5A = 1100Watt = 1kWatt
 
 Voltage is a preassure used to move current.
 V = 1J(juel) / 1c(coulumn)
@@ -52,7 +47,13 @@ To generate voltage use:
 3. Photo electric effect
 
 Another way to calculate voltage
-V = Amp \* Resistence(in Ohms)
+V = Amp*Resistence(in Ohms)
+
+# Wire grounding
+Think of grounding like having a safety escape route for electricity. If something goes wrong with the electrical system, like a wire breaks or something short-circuits, the electricity needs a safe place to go. Instead of running through your body or causing a fire, the electricity is directed safely into the ground, where it can disperse harmlessly.
+
++ sign called anode(аноуд)
+- side called cathode(касоуд)
 
 # AC/DC
 
@@ -147,21 +148,18 @@ Structure and Function:
    Purpose: Emit light when forward biased.
    Use: Indicators, displays, and lighting.
 
-# where to buy
+# Transistors
+PNP(points in) and NPM(points out)
+Consists of three leads:
+Emitter
+Base
+Collector
 
-Global Specialties - company that does the boards.
-https://www.digikey.de/
-https://www.mouser.de/
-https://www.newark.com/
-https://www.futureelectronics.com/
-https://www.avnet.com/wps/portal/us/
-https://www.arrow.de/
+Base must get some charge so that current starts flowing through Emitter. Otherwise, current is flowing through Collector.
 
-Search for components:
-https://octopart.com/de
 
-# Devices
+# MOSFEITS
+Better that transistors.
 
-Sygnal generator - Rigol
-Oscilloscope(check waves on output) - Hantek DS series
-DC power supply - Protek
+
+
