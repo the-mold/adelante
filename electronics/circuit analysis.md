@@ -26,3 +26,12 @@ V=I*R
 OR transformed version of the formula above:
 
 Voltage at resistor = Resistance at resistor itself * Total Voltage/Sum of all resistors in Ohms
+
+
+# Web editor
+https://www.circuitlab.com/
+# desktop
+LTspice from linearTechnology
+
+Very expensive state of the art app:
+Proteus design suite
