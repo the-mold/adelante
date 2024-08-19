@@ -22,7 +22,6 @@ Books electronics
 this one is strange:
 https://lume.ufrgs.br/bitstream/handle/10183/110732/000952692.pdf?sequence=1
 
-
 Silicon can be easily doped with other elements (like phosphorus or boron) to modify its electrical properties. This is crucial for creating p-type(positive charged) and n-type semiconductors used in electronic devices.
 
 # Current and voltage
@@ -47,13 +46,15 @@ To generate voltage use:
 3. Photo electric effect
 
 Another way to calculate voltage
-V = Amp*Resistence(in Ohms)
+V = Amp\*Resistence(in Ohms)
 
 # Wire grounding
+
 Think of grounding like having a safety escape route for electricity. If something goes wrong with the electrical system, like a wire breaks or something short-circuits, the electricity needs a safe place to go. Instead of running through your body or causing a fire, the electricity is directed safely into the ground, where it can disperse harmlessly.
 
-+ sign called anode(аноуд)
-- side called cathode(касоуд)
+- sign called anode(аноуд)
+
+* side called cathode(касоуд)
 
 # AC/DC
 
@@ -110,6 +111,11 @@ where cos(theta) is cosinus from difference in phase angles(lead or lag) of curr
 Purpose: decrese voltage
 Resistors are used to limit the amount of current that can flow through a circuit. For example, in a simple LED circuit, a resistor is placed in series with the LED to prevent too much current from passing through and damaging the LED. Resistors are characterized by their resistance, which is measured in ohms (Ω).
 
+## Potentiometer
+
+Purpose: decrese voltage
+It is like a variable resistor. You can configure its resistance value.
+
 ## Capacitor
 
 Purpose: stores charge
@@ -149,6 +155,7 @@ Structure and Function:
    Use: Indicators, displays, and lighting.
 
 # Transistors
+
 PNP(points in) and NPM(points out)
 Consists of three leads:
 Emitter
@@ -157,9 +164,6 @@ Collector
 
 Base must get some charge so that current starts flowing through Emitter. Otherwise, current is flowing through Collector.
 
-
 # MOSFEITS
+
 Better that transistors.
-
-
-
