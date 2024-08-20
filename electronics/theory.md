@@ -111,6 +111,10 @@ where cos(theta) is cosinus from difference in phase angles(lead or lag) of curr
 Purpose: decrese voltage
 Resistors are used to limit the amount of current that can flow through a circuit. For example, in a simple LED circuit, a resistor is placed in series with the LED to prevent too much current from passing through and damaging the LED. Resistors are characterized by their resistance, which is measured in ohms (Ω).
 
+Calculations in Ohms:
+Series of resistors - sum
+Parallel resistors - product over sum
+
 ## Potentiometer
 
 Purpose: decrese voltage
@@ -119,6 +123,13 @@ It is like a variable resistor. You can configure its resistance value.
 ## Capacitor
 
 Purpose: stores charge
+Purpose2: filtering. You can filterout DC current and pass only AC forward.
+Can be polarised and not polarised. Polarised must be inserted in curcuit correctly with regards to anode and cathode, otherwise capacitor might explode.
+Electrolytic capacitors are bad, do not use.
+
+Calculations in Farads(F):
+Series of capacitors - product over sum
+Parallel capacitors - sum
 
 ## Inductor
 
