@@ -30,7 +30,7 @@ DC power supply
   - Manufacturer: Protek
 
 Digital multimiter
-- Model: BSIDE MS8229(can measure light(LUX), sound and temperature)
+- Model: MASTECH MS8229(can measure light(LUX), sound and temperature)
 - Model: TPI 192 II(expensive)
 - To measure current, you need to break the circuit and insert meter on the way of current.
 
@@ -42,6 +42,10 @@ Soldering Iron(паяльник)
 
 Soldering board
 - boards with wholes to practice Soldering.
-- Manufacturer: Twin Industries
+- Manufacturer: Twin Industries, ELEGOO
 
-What is grounding?
+
+MASTECH MS8229
+https://www.rcscomponents.kiev.ua/
+Weller
+https://www.hornbach.de/p/weller-we-1010-loetstation-projekt-kit-t0053298690-70-w-230-v-digital-1-kanal-loetsation-mit-5-et-loetspitzen-handentloetpumpe-und-3-loetdraehten-temperaturbereich-100c-450c/10572185/?wt_mc=de.paid.price_search_engines_portals.idealo.alwayson_assortment.mas.product...

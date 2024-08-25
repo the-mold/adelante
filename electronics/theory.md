@@ -131,10 +131,18 @@ Calculations in Farads(F):
 Series of capacitors - product over sum
 Parallel capacitors - sum
 
+Circuit with capacitor component - RC circuit.
+
+# Impedence
+impedence - how a component resists/reacts to current flow.
+Reactance - charge that is pushed back against the current flow by the capacitor. We also call it impedence of capacitor.
+
 ## Inductor
 
 Purpose: stores charge
 An inductor is a passive electronic component that stores energy in the form of a magnetic field when electrical current flows through it. It typically consists of a coil of wire wound around a core, which can be made of air, iron, or other materials that enhance its magnetic properties.
+
+Circuit with inductor component - LC circuit.
 
 ## Transformers
 
@@ -178,3 +186,7 @@ Base must get some charge so that current starts flowing through Emitter. Otherw
 # MOSFEITS
 
 Better that transistors.
+
+
+# Hertz
+Hertz (Hz) is a unit of frequency that measures the number of cycles per second of a periodic phenomenon. It is used primarily in the context of waves and vibrations, such as sound waves, electromagnetic waves (including radio waves and light), and alternating electrical currents.
