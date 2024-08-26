@@ -1,0 +1,2 @@
+# Clocks
+Almost every computer system has a clock component. Clock generates a stable digital signal of high and low that computer system uses to synchronize all its components. Data from all other components is typically read and processed at clock phases(rises or falls).
