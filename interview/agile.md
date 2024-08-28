@@ -9,8 +9,7 @@ forces cooperation of all stakeholders during sprint planning.
 - closed(no new tickets after sprint start) sprints of defined length
 - tickets are planned for the sprint and no new tickets emerge
 - tasks are prioritised for each sprint in the sprint planning
-- uses board to visualize progress(although some resources say it is more of a 
-kanban feature).
+- uses board to visualize progress(although some resources say it is more of a kanban feature).
 
 # Kanban
 - tickets are organized according priority in backlog. If developer is
