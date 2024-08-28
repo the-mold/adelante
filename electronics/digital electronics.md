@@ -3,3 +3,9 @@ Almost every computer system has a clock component. Clock generates a stable dig
 
 # Logic families
 Author recommends low cost and performant LVC or LVA families.
+
+# Decoder
+Component that takes in few signals and outputs more data.
+
+# Digital Multiplexer
+Takes in few signals but forwards only one of them.
