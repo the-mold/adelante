@@ -9,3 +9,7 @@ Component that takes in few signals and outputs more data.
 
 # Digital Multiplexer
 Takes in few signals but forwards only one of them.
+
+# Integrated Circuit (IC)
+In digital electronics, IC stands for Integrated Circuit. An Integrated Circuit is a small, compact semiconductor device that contains a large number of microscopic electronic components such as transistors, resistors, capacitors, and diodes, all fabricated onto a single piece of semiconductor material, typically silicon.
+Examples: Microprocessors, memory IC, Microcontrollers etc
