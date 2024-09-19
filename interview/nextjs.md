@@ -38,3 +38,6 @@ npm run build
 #by default very aggressive caching is applied. See which pages are marked as static and change them to dynamic if you need to.
 npm run start
 ```
+
+## Content streaming
+By default in nextjs all components are built on server side. It might result in loger loading time. Better wrap some components in Suspence(React). In this way these componentes are not delivered on the initial load, but will be loaded(streamed) later when they are ready. This results in faster load time for users.
