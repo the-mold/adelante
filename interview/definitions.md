@@ -60,3 +60,7 @@ connection for users but does not verify the owner of the website. Self-signed c
 in development.
 
 IDS Firewall
+
+
+# TTY
+In Unix and Linux systems, TTY refers to terminal interfaces that can be used to interact with the operating system.
