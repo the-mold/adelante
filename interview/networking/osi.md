@@ -25,26 +25,3 @@ Example protocols: MIME (Multipurpose Internet Mail Extensions) for email format
 7. Application level provides a way for applications to access network services, data and resources.
 Example protocols: HTTP(used for web browsing), FTP(used for file transfer), SMTP(used for emailing), 
 and DNS(used for domain resolution).
-
-# Ethernet VS Wi-Fi
-Ethernet is a technology for computer networking. Ethernet is used to connect devices into
-LAN(local area network) and WAN(wide area network). Ethernet defines protocol how devices should
-communicate with each other.
-Advantage: speed, reliability, security.
-Disadvantage: every computer must be cable connected.
-
-WiFi is a wireless networking technology that uses radio waves to provide internet access.
-Advantage: you can move devices in space.
-Disadvantage: security, interruptions, speed.
-
-In summary, Ethernet transmits data over cables, whereas Wi-Fi transmits data over wireless signals.
-
-# WLAN vs WiFi
-Wifi is trademark name for the technology that uses radio waves to transfer data.
-
-WLAN(wireless local network) devices in network can communicate with each other wirelessly.
-Devices connect to router, router is connected with Ethernet cable to DSL cable.
-
-# DSL(Digital Subscriber Line)
-DSL is provided by phone company and MUST to be translated to Ethernet/WiFi signal with help of 
-modem/router(that support this functionality) so that you could connect your device. 

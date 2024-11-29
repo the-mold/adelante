@@ -1,5 +1,5 @@
 API building with postman
-1. Enterprise licence is (usually) needed. Currently, you can add only 3 API definitions in all other plans.
+1. Enterprise licence is (usually) needed. Currently, you can add only 3 API definitions in all other plans. Also you cannot connect to on-premise gitlab instances with any licence but enterprise.
 2. In postman click on APIs and add one with your API definition.
 3. You can test and develop with generated requests from the API.
 4. Click on a request and click on Scripts to add some tests.
