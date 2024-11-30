@@ -44,3 +44,27 @@ Is a device on the network that is responsible to send data to another network. 
 
 ## Address Resolution Protocol (ARP)
 Each device on network sends a request to all connected devices on network ips to identify themselves with MAC address. This address is saved in device registry.
+
+
+# Ethernet VS Wi-Fi
+Ethernet is a technology for computer networking. Ethernet is used to connect devices into
+LAN(local area network) and WAN(wide area network). Ethernet defines protocol how devices should
+communicate with each other.
+Advantage: speed, reliability, security.
+Disadvantage: every computer must be cable connected.
+
+WiFi is a wireless networking technology that uses radio waves to provide internet access.
+Advantage: you can move devices in space.
+Disadvantage: security, interruptions, speed.
+
+In summary, Ethernet transmits data over cables, whereas Wi-Fi transmits data over wireless signals.
+
+# WLAN vs WiFi
+Wifi is trademark name for the technology that uses radio waves to transfer data.
+
+WLAN(wireless local network) devices in network can communicate with each other wirelessly.
+Devices connect to router, router is connected with Ethernet cable to DSL cable.
+
+# DSL(Digital Subscriber Line)
+DSL is provided by phone company and MUST to be translated to Ethernet/WiFi signal with help of 
+modem/router(that support this functionality) so that you could connect your device. 
