@@ -1,3 +1,6 @@
+Very fast language refresher:
+https://learnxinyminutes.com/
+
 # Website migration
 1. Backup your current system
 2. Setup the new running server
