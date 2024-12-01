@@ -46,3 +46,8 @@ Then do docker run to test it locally.
 ```
 docker push gitlab.os.dcso.net:4567/dev/go/vizor/mock-wb-psql-db
 ```
+
+## Remove everything on machine:
+docker container prune; docker image prune; docker volume prune
+AND
+docker system prune -a --volumes
