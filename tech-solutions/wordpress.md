@@ -16,7 +16,8 @@ You want wordpress.org. Here you can do whatever you want.
 1. Add plugin duplicator to your local instance
 2. run the plugin to get two files: something like initializor and .zip archive.
 3. Load the two files to remote machine.
-4. Open them in browser and run installation. You can remove the files after installation.
+4. Open them in browser and run installation. Note: you need a running mysql db to complete the setup.
+5. You can remove the files after installation.
 
 ## Speed optimization
 See udemy: WordPress Speed Optimization Course.
@@ -47,7 +48,6 @@ Add TXT DNS record to domain records(done in domain provider website)
 ping list 
 https://docs.google.com/document/d/17rQmTNzzyqVBypi7uYguA8lkXFuTetHqDq1YkjfuA5M/edit?tab=t.0
 
-
 # SEO
 1. You need identify some keywords for you business. If you start in highly competity business, make your keywords precise. Ex not "frying pan" but "best frying pan for eggs".
 
@@ -68,3 +68,18 @@ Creating backlinks: https://backlinko.com/high-quality-backlinks#2-publish-skysc
 # Email marketing
 The highest ROI you get from email marketing. Second place SEO.
 Connect seninblue with its own plugin + mailoptin plugin.
+
+# Payment providers
+## Paypal
+1. Install plugin "WooCommerce PayPal Payments"
+2. Go to WooCommerse -> Settings -> Payments
+3. Activate your account
+4. Disable cards paypemnts via paypal. You will cover it with Stripe
+
+## Stripe
+1. Install plugin "WooCommerce Stripe Payment Gateway"
+2. Go to plugins -> WooCommerce Stripe Payment Gateway -> Settings
+3. Create stripe account.
+4. In stripe go to developers -> API keys -> Create a new key. Add key to wordpress plugin settings.
+5. From wordpress plugin settings copy webhook url and create a new webhook in stripe. 
+See how the guy does it in 72.
