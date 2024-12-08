@@ -83,3 +83,19 @@ Connect seninblue with its own plugin + mailoptin plugin.
 4. In stripe go to developers -> API keys -> Create a new key. Add key to wordpress plugin settings.
 5. From wordpress plugin settings copy webhook url and create a new webhook in stripe. 
 See how the guy does it in 72.
+
+
+# Insert custom posts into Wordpress
+1. Install Secure Custom Fields(old ACF)
+2. Add new post type. (Note! in advance activate archive option to enable list view!)
+3. Add new field group and assign them to your new post type.
+4. In WP admin go to your new Post type and add new items.
+
+Render list page:
+Note! I am not sure if this is correct method!
+1. Install code snippets plugin and write a custom function that renders your post types.
+https://www.youtube.com/watch?v=pxPoOAx4wtk
+
+Render details page:
+1. WP admin -> templates -> single post(before saving it constraint it only for your post type) -> add fields and click on "Dynamic fields" when choosing value.
+https://www.youtube.com/watch?v=1ahazbL0ZMs
