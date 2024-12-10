@@ -19,6 +19,10 @@ You want wordpress.org. Here you can do whatever you want.
 4. Open them in browser and run installation. Note: you need a running mysql db to complete the setup.
 5. You can remove the files after installation.
 
+Alternative way(manual) and better not do that:
+https://www.udemy.com/course/wordpress-for-ecommerce/learn/lecture/28425568#overview
+
+
 ## Speed optimization
 See udemy: WordPress Speed Optimization Course.
 You need to use plugins for caching. With these you will improve SEO and search rankings.
@@ -99,3 +103,23 @@ https://www.youtube.com/watch?v=pxPoOAx4wtk
 Render details page:
 1. WP admin -> templates -> single post(before saving it constraint it only for your post type) -> add fields and click on "Dynamic fields" when choosing value.
 https://www.youtube.com/watch?v=1ahazbL0ZMs
+
+
+# Product variation selection 
+Use plugin(variation swatches) to show variations nicely:
+https://wordpress.org/plugins/woo-variation-swatches/
+
+# Product image flipper in list when hovered
+https://en-gb.wordpress.org/plugins/tp-product-image-flipper-for-woocommerce/
+
+# Infinite scroll in product list
+https://wordpress.org/plugins/catch-infinite-scroll/
+
+# Wishlist
+also a plugin :(
+
+# Product slider
+https://wordpress.org/plugins/woocommerce-products-slider/
+
+# Currency switcher
+many plugins
